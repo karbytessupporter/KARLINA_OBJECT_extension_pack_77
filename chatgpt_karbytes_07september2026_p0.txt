@@ -117,6 +117,40 @@ karbytes:
 
 Alright, I have fixed that error you identified. Now, just to be maximally thorough, perform the previous task one more time.
 
+ChatGPT:
+
+[Worked for 1m 29s]
+
+The correction is only partial: the visible text was changed to `a11`, but the hyperlink destination still points to `a10`. I confirmed this with both a fresh load and a reload of [sub-index page 215](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_215.html).
+
+[preformatted_text]
+
+| Check                                     |     Result |
+| ----------------------------------------- | ---------: |
+| Sub-index pages 210–218 loading correctly |     9 of 9 |
+| Required raw-file destinations present    | 129 of 130 |
+| Required `(*)` destinations present       |   47 of 47 |
+| Required unique destinations present      | 176 of 177 |
+| Visible URL exactly matching destination  | 177 of 178 |
+| Index-page links to pages 210–218 correct |     9 of 9 |
+
+[end preformatted_text]
+
+On page 215, link position 5 currently has:
+
+* Visible text: `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76/main/unlisted_web_page_chatgpt_karbytes_03september2026_a11.html`
+
+* Actual `href`: `https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76/main/unlisted_web_page_chatgpt_karbytes_03september2026_a10.html`
+
+Consequently, clicking the apparently correct `a11` link still opens `a10`. The `a10` destination remains duplicated at positions 3 and 5, while the raw-file destination for `a11` remains absent.
+
+Only the position-5 `href` still needs changing to:
+
+`https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76/main/unlisted_web_page_chatgpt_karbytes_03september2026_a11.html`
+
+The visible text is already correct. The corresponding WordPress `a11` link at position 6 is also correct.
+
+Apart from this one underlying-destination error, all 130 raw-file entries and all 47 former `(*)` destinations are represented correctly, every other sub-index link displays its exact destination as a full URL, and no other omissions or duplicates were found.
 
 =========================================
 
