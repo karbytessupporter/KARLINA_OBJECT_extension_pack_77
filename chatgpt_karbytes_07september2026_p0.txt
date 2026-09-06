@@ -84,6 +84,50 @@ Also verify whether or not every hyperlink on that micro-directory web page whos
 
 Finally, point out any discrepancies you notice while completing the requested task.
 
+ChatGPT:
+
+[Worked for 3m 8s]
+
+No—not quite. Sub-index pages 210–218 are missing one required raw-file URL because another URL was duplicated in its place.
+
+[preformatted_text]
+
+| Audit item                                                 |     Result |
+| ---------------------------------------------------------- | ---------: |
+| Required pack-76 raw-file URLs                             |        130 |
+| Unique raw-file URLs present                               |        129 |
+| Required `(*)` destination URLs                            |         47 |
+| `(*)` destinations present                                 |         47 |
+| Required unique URLs overall                               |        177 |
+| Required unique URLs present                               |        176 |
+| Sub-index hyperlinks displaying their complete destination | 178 of 178 |
+| Pages 210–218 loading with correct identities              |     9 of 9 |
+| Index-page links to pages 210–218 displaying full URLs     |     9 of 9 |
+
+[end preformatted_text]
+
+The sole substantive discrepancy is on [sub-index page 215](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_215.html):
+
+* Link position 3 correctly contains the raw-file URL for `chatgpt_karbytes_03september2026_a10.html`.
+
+* Link position 5 incorrectly repeats that same `a10` raw-file URL.
+
+* Position 5 should instead contain:
+
+`https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76/main/unlisted_web_page_chatgpt_karbytes_03september2026_a11.html`
+
+The corresponding WordPress URL for `a11` is already correctly present at position 6:
+
+`https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_03september2026_a11/`
+
+Therefore, replacing the second occurrence of the `a10` raw-file URL with the missing `a11` raw-file URL—and changing both its displayed text and its hyperlink destination—would make the required set complete.
+
+The nine pages contain 178 hyperlink occurrences in total: the 177 intended audit-set occurrences plus one link back to the [pack-76 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_76/). The duplicate masks the omission numerically, which is why the total count initially appears correct.
+
+Every hyperlink on pages 210–218 displays its complete URL, exactly matching its destination. No other missing required links, duplicated required links, text/destination mismatches, or page-number errors were found.
+
+I interpreted “aforementioned hyperlinks” as the 130 pack-76 raw-file links and 47 `(*)` destinations from the preceding audit. The micro-directory’s unrelated explanatory and contextual links were not included in that set.
+
 
 =====
 
