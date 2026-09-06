@@ -115,7 +115,7 @@ I interpreted “aforementioned hyperlinks” as the 130 pack-76 raw-file links 
 
 karbytes:
 
-Alright, I have fixed that error you identified. Now, just to be thorough, perform the previous task one more time.
+Alright, I have fixed that error you identified. Now, just to be maximally thorough, perform the previous task one more time.
 
 
 =========================================
