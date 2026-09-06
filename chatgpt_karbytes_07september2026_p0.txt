@@ -20,6 +20,55 @@ Also verify whether or not every hyperlink on that micro-directory web page whos
 
 Finally, point out any discrepancies you notice while completing the requested task.
 
+ChatGPT:
+
+[Worked for 5m 45s]
+
+The [micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_76/) passes the substantive link-integrity audit against the [GitHub repository](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76).
+
+[preformatted_text]
+
+| Check                                       | Result |
+| ------------------------------------------- | -----: |
+| Files in repository                         |    130 |
+| Pack-76 raw-file hyperlinks                 |    130 |
+| Missing files                               |      0 |
+| Extra or duplicate raw links                |      0 |
+| Visible URL differing from destination      |      0 |
+| Raw links lacking full visible URLs         |      0 |
+| `(*)` hyperlinks                            |     47 |
+| Duplicate or incorrectly paired `(*)` links |      0 |
+
+[end preformatted_text]
+
+All 45 ordinary-web `(*)` destinations loaded successfully at their exact linked URLs, with titles/headings corresponding to their associated archived HTML files.
+
+The remaining two `(*)` links are `.onion` addresses. Their destinations exactly match the addresses contained in their associated repository files—[darknet root directory](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76/blob/main/unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html) and [first onion page](https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_76/blob/main/unlisted_web_page_karbytes_first_onion_web_page.html). Their current live availability could not be determined without Tor; ordinary Chromium returned `502 Bad Gateway`. This is a reachability limitation, not evidence of incorrect links.
+
+One discrepancy exists: the micro-directory says its links occur “in the order those files appear” in the repository, but 16 positions differ across three blocks:
+
+[preformatted_text]
+
+| Positions | Repository order                                                                                       | Micro-directory order                                         |
+| --------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 57–66     | Five `instagram_*` files, then five `journal_*` files                                                  | Five `journal_*` files, then five `instagram_*` files         |
+| 75–77     | `obs_studio_recording_05september2026_p0.mp4`, `print_folder_checksums.py`, `print_folder_contents.py` | The two Python files, then the OBS video                      |
+| 126–128   | `...extension_0.html`, `...extension_1.html`, `...index.html`                                          | `...index.html`, `...extension_0.html`, `...extension_1.html` |
+
+[end preformatted_text]
+
+These are ordering discrepancies only; none of the affected links is missing or incorrectly targeted.
+
+The separately labeled `image_link` points to extension pack 31. It is outside the stated pack-76 file list and therefore was not counted as an error. The bracket characters in `style_[karbytes_wayback_machine_saves_precision_batches].css` are URL-encoded by GitHub in one representation, but both representations resolve to the same correctly named file. No other discrepancies were found.
+
+karbytes:
+
+What I would like you to do now (just to be extra thorough with the interim auditing of the KARLINA_OBJECT_extension_pack_76 micro-directory) is the following…
+
+On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 210 to 218 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_76) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
+
+https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
 
 
 
