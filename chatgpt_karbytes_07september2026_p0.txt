@@ -352,3 +352,11 @@ I’ll preserve this distinction when discussing timestamps used throughout the 
 karbytes:
 
 I'm not sure when and where I started using the "Pacific Standard Time" timezone name regularly but I do remember recently seeing that exact timezone name on an Amazon warehouse job application. 
+
+ChatGPT:
+
+[Worked for 13s]
+
+That is plausible as a recent reinforcement of your convention, though not necessarily its original source.
+
+The most accurate record is: the origin and starting date of your regular use of “Pacific Standard Time” are currently unknown; you recently encountered the same wording on an Amazon warehouse job application, which may have helped normalize or reinforce it. I won’t attribute the convention’s origin to Amazon without further evidence.
