@@ -152,6 +152,10 @@ The visible text is already correct. The corresponding WordPress `a11` link at p
 
 Apart from this one underlying-destination error, all 130 raw-file entries and all 47 former `(*)` destinations are represented correctly, every other sub-index link displays its exact destination as a full URL, and no other omissions or duplicates were found.
 
+karbytes:
+
+Alright, I have fixed that error you identified (which I missed the last time I attempted to fix all of it). Now, just to be maximally thorough, perform the previous task one more time.
+
 =========================================
 
 karbytes:
