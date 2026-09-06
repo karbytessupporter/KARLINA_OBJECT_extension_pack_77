@@ -156,7 +156,45 @@ karbytes:
 
 Alright, I have fixed that error you identified (which I missed the last time I attempted to fix all of it). Now, just to be maximally thorough, perform the previous task one more time.
 
-=========================================
+ChatGPT:
+
+[Worked for 1m 5s]
+
+The repeat audit passes completely. The correction on [sub-index page 215](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_215.html) is now fully implemented: both the visible text and underlying `href` point to the `a11` raw file.
+
+[preformatted_text]
+
+| Check                               |     Result |
+| ----------------------------------- | ---------: |
+| Required pack-76 raw-file URLs      | 130 of 130 |
+| Required former `(*)` destinations  |   47 of 47 |
+| Total required unique destinations  | 177 of 177 |
+| Missing required destinations       |          0 |
+| Duplicate required destinations     |          0 |
+| Visible-text/destination mismatches |          0 |
+| Links without full visible URLs     |          0 |
+| Sub-index pages loading correctly   |     9 of 9 |
+| Hub links for pages 210–218 correct |     9 of 9 |
+
+[end preformatted_text]
+
+The nine sub-index pages contain 178 total hyperlinks, all with unique destinations:
+
+* 177 required hyperlinks from the [pack-76 micro-directory](https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_76/).
+
+* One intentional navigation link on page 210 back to that micro-directory.
+
+The formerly faulty sequence on page 215 is now correct:
+
+* Position 3: raw `a10` file.
+
+* Position 4: WordPress `a10` page.
+
+* Position 5: raw `a11` file.
+
+* Position 6: WordPress `a11` page.
+
+All four displayed URLs exactly match their hyperlink destinations. No discrepancies were found in this repeat audit of the [precision-batch index and pages 210–218](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/).
 
 karbytes:
 
