@@ -1,0 +1,99 @@
+/**
+ * file: journal_karbytes_08september2026_p2.txt
+ * type: plain-text
+ * date: 08_SEPTEMBER_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// KARBYTES_VIDEO_TRANSCRIPTIONS_08SEPTEMBER2026_P1
+
+The following video was transcribed using the TurboScribe.ai web application.
+
+* * *
+
+video_0_name: karbytes_thinking_07september2026_p0.mp4
+
+(relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_04september2026_a0/)
+
+(relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_14august2026_a/)
+
+(relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_17august2026_a/)
+
+video_0_transcription:
+
+Alright, it is 07_SEPTEMBER_2026, and I'm in the middle of driving from The Burrow to Las Trampas Wilderness, Bollinger Canyon Road entrance to the Big Green Thing. This is another video I don't intend to publish on KARBYTES, but I do intend to use my phone application to compress it down as much as I can before I upload it to TurboScribe to have it transcribed into text, and then I will just simply include the curated text-only transcript of this video to KARBYTES, because it contains useful information about KARBYTES. What I wanted to say was, I wasn't so sure yesterday if I was going to actually use all three of my GitHub repositories, I mean, my GitHub accounts, which is @karlinarayberinger, @karbytessupporter, and @informationcrystals.
+
+But it turns out I'm using the entire system that I set up, and it works very well. I wasn't so sure if I was going to be doing anything on the deep web earlier today, but it turns out that I really do mean to do the bulk of the work of KARBYTES on the deep web, because on the deep web, in private GitHub repositories specifically, such as the one that I'm currently using, which is called third_dark_hiatus_bubble_autumn_2026, because there's basically already been two already that I've completed and sealed up as in archived so that I don't continue making changes to those repositories. Doing so helps me keep track of things. The thing is, with the deep web, it allows me to be working on things outside the public eye, so that I don't appear to the public to be hanging onto incomplete files for too long.
+
+So, my goal is to minimize the amount of time spent making public updates, so that I maximize the amount of time where it appears that I'm not in the middle of currently working on any files. So, I'm trying to make KARBYTES, including the staging repository on @informationcrystals named projects, look as complete as possible, so that I'm not caught in the middle of an incomplete update, because that could happen. I could unexpectedly, or for whatever reason, not be able to complete an update in a timely manner and have it drag on for longer than I intend, and that way I don't get caught in the middle of maybe adversity, or laziness, or just not looking like I'm on top of my shit.
+
+And that's the idea with KARBYTES, which is that I want to make it look like I am ready to go, and I'm done, and I'm not in the middle of trying to finish up anything, so that it looks like I could be at work already, instead of looking like I'm not ready to go to work. So the idea with the Deep Web is I have more privacy to take my time with accumulating files, which may eventually enter the public web. So this video might get stored there just for safekeeping before I transcribe this video into a text-only transcript.
+
+So the video might stay in the deep web, but the resulting transcript, I expect, will eventually be public. First, it'll be in the projects repository on the @informationcrystals GitHub account, which is the only public GitHub repository on that account. And then, after enough time passes so that I don't mix up canon KARBYTES updates, I will incorporate all the files that are in projects into the canon KARBYTES, namely into the current micro-directory repository on the @karlinarayberinger GitHub account, which is named KARLINA_OBJECT_extension_pack_77.
+
+Right now, it appears that I haven't made any updates to the canon KARBYTES since yesterday. Because yesterday, I spent all day pretty much burning M_DISCs, several copies of them, so that I would have a solid backup of the latest stable configuration of KARBYTES, before I continue on to make new content, and to give me some time to just get around to other things and to think and reflect on things. Because what's definitely essential to making quality KARBYTES content is having sufficient mental capacity to actually process what I'm doing, instead of feeling rushed.
+
+So in the real world, or whatever it's called, not exactly the real world, but the public eye, it makes it seem that I have to be very perfectionistic and hide how long things actually take, and how much it might actually cost, and how stressful it might actually be, so that the end result is more or less kind of like "aura farming", which is what I'm kind of doing. I'm trying to make it look like KARBYTES is an effortless, or relatively effortless enterprise. And for the most part, it's not difficult.
+
+It feels like cosmic intelligence, transcendent of my own intelligence, is doing most of the work. So I don't really plan what happens all that much. A lot of it is just spontaneous inspiration.
+
+And it seems like there's a lot of events that happen that are not human-caused; they're just kind of other things going on. Maybe it's human-caused, I don't know. It kind of blurs the lines between human intention and cosmic events that are larger scale than just human activities.
+
+But they do intersect, and I live at the intersection of a larger transcendent network of causality and my own awareness and my own planning. So to me, it's fun, exciting. A lot of KARBYTES inspiration comes from the dreams I have, which I don't plan.
+
+The dreams just kind of happen to me. Sometimes I have some control in the dreams, but ultimately it feels like me interfacing with a deeper level of reality. And I do think that reality is fundamentally more or less a computer simulation, and there's different layers of the simulation.
+
+So dreaming is just another layer of a larger encompassing simulation. I can go into detail about whether or not I think laws of physics are consistent in a given layer of the simulation. I think that it can vary depending on the simulation layer.
+
+Maybe some layers of reality have more rigid rules than others, or other realms you could actually bend physics more, apparently. But that's me getting on a tangent. The point of this recording is to just acknowledge that I am using all of the infrastructure that I set up for KARBYTES development, and it is true that most of the time I spend on KARBYTES content development takes place in the deep web.
+
+So the lore is true to some extent. And I did add some fanciful imagery and storytelling to make it even more exciting. And you can find out more about that in KARBYTES.
+
+The transcript will have relevant web pages linked to it.
+
+* * *
+
+video_1_name: karbytes_thinking_08september2026_p0.mp4
+
+video_1_transcription:
+
+[Unfortunately, despite using multiple recovery tools to try to get this video file back (which seems to have been deleted without karbytes' permission (i.e. by hackers)), karbytes was still not able to recover that video. karbytes has, however, attempted to replicate what the transcript of that video would be if that video was still available (because that video contains important information about karbytes' latest two-day hike in the Big Green Thing). What seems suspicious to me is that other videos I recently deleted which are older than the one I tried to recover were deemed to be recoverable by the two Android applications I was using. So I suspect that someone other than myself deliberately tried to prevent me from having access to that video (perhaps because it contained controversial information such as not seeming adequately prepared for the sweltering heat, illegal camping, and possibly illegal drug use). What I should have done is back up those videos sooner to GitHub instead of risking accidentally deleting them while the only existing copies I have of them are on my phone. I admittedly procrastinated on backing them up to the cloud and regret that because, if I had backed them up, I probably would be able to provide a more literal transcript of that "unrecoverable" video. The one I improvised below seems like a close approximation of what the original transcript would be.].
+
+It is approximately 8:16AM Pacific Standard Time on 08_SEPTEMBER_2026. I'm still in Las Trampas Wilderness (and have been since yesterday). What happened is that I ended up decided to make it into an impromtu camping trip because I felt physically unwell during yesterday's hike due to a combination of minor food poisoning, taking shrooms back to back days, and, most of all, prolonged exposure to high temperatures and with minimal shade. During the late part of yesterday's hiking, I stopped to lie down in shady parts of the trail several times in order to prevent myself from getting a heat stroke. Eventually I decided to curl up in a rather cozy spot in the dry grass at the base of Ramage Peak after sunset. I was comfortable except for being cold due to not having a sleeping bag (and I was wearing shorts and was barefoot after taking off my shoes). To try to get more comfortable, I tried covering myself with tufts of dry grass. Then I tried stuffing some of the dry grass in my shirt (which helped a little more than merely covering myself with the grass to retain more body heat). Despite those methods to try to retain body heat, I concluded that I would not be able to feel what I think is sufficiently comfortable and accepted the fact that I would shiver throughout the night. I did fall asleep several times and had some dreams while I was sleeping. I woke up periodically to stare at the starry moonless sky above me. I was waiting for daylight to arrive before starting to hike back to the car. Eventually morning came and the birds started chirping and I watched parts of the landscape outside of Ramage Peak's shadow lighting up with the sun's rays. What was disconcerting to me was realizing that I only had three water bottles in my backpack despite remembering packing four. I thought that the apparently missing water bottle either fell out of my backpack while I was hiking or else I accidentally left it behind at The Burrow. I doubted that someone stole the water bottle since I seemed to be in an area with very few people in it. By the time I get to the parking lot where there's a water spout to refill the bottles I currently have, I expect to be parched. Well, I better get going!
+
+* * *
+
+video_2_name: karbytes_thinking_08september2026_p1.mp4
+
+video_2_transcription:
+
+It is now approximately 9:06AM on 08_SEPTEMBER_2026. I just walked past the creek, which is flowing constantly. I'm not sure how.
+
+And I was thinking about how if I had iodine tablets with me, I could fill my water bottles with the water from the creek and then put iodine tablets in the water bottles, wait a while for the tablets to dissolve, and technically the water would be safe to drink. Then I got the idea of what if I stocked up on a bunch of iodine tablets so I can go traveling around and just using the water that's in the ground. But I'm getting a bit carried away.
+
+That sounds risky. It's always good to be near known drinkable water sources like drinking fountains, sinks, utilities, et cetera. Anyway, I had another idea I should record, and that is, until I get to what I think is sufficiently good at playing the drums and maybe the guitar, I think what I should do is record myself playing and put the recordings in private GitHub repositories on @informationcrystals' GitHub account.
+
+And that way I can kind of assess my progress in a way that isn't wasting so much data space inside of KARBYTES. And then from now on the only things I showcase on KARBYTES which are videos are things that I think are especially good. 
+
+* * *
+
+video_3_name: karbytes_thinking_08september2026_p2.mp4
+
+video_3_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_77/main/karbytes_thinking_08september2026_p2.mp4
+
+(relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_77/main/las_trampas_wilderness_hike_08september2026_p10.jpg)
+
+(relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_77/main/las_trampas_wilderness_hike_08september2026_p11.jpg)
+
+video_3_transcription:
+
+Miraculously, I found my missing water bottle right where I left it at a water spout at Coral Group Camp near the parking lots of Las Trampas Wilderness. I must admit, the hike I went on today, and yesterday, but especially today, was probably one of the most painful hikes I've ever been on, and quite possibly one of the most scary experiences I've ever had. Because I was so parched, lacking water, and the temperature was so high, and my body just felt very run down this entire time.
+
+I had to stop so many times to lay down in the shade, and I knew that the longer I waited to replenish my water supply, the more I was at risk of dying of dehydration and heat stroke. I might have gotten an actual mild heat stroke. I've never felt this winded going on a hike here before, so I think it's mostly because of the high temperature.
+
+And being low on water definitely made that worse. Thankfully, when I got to the bottom of the hill, I filled my water bottles with water, and I went to a shady bench and laid down for a while. And I did that for what seemed like two hours, and I was just slowly taking sips of water intermittently.
+
+And as I did, I felt my stomach, and I heard my stomach, making a weird gurgling sound. That's something I've never noticed before. I also really haven't eaten since yesterday, but I don't really feel hungry.
+
+I think that's because I'm just still sick from yesterday's food poisoning, but I'm going to try to make myself eat a little something. So I'm going to eat some of those vanilla cereals that I bought, and I'm also going to go try to get some electrolyte beverage and drink some of that as well. 

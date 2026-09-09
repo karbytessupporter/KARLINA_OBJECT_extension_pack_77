@@ -1,0 +1,39 @@
+/**
+ * file: journal_karbytes_08september2026_p1.txt
+ * type: plain-text
+ * date: 07_SEPTEMBER_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// KARBYTES_VIDEO_TRANSCRIPTIONS_08SEPTEMBER2026_P0
+
+The following video was transcribed using the TurboScribe.ai web application.
+
+* * *
+
+video_0_name: karbytes_thinking_06september2026_p0.mp4
+
+(relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_77/main/complete_canon_karbytes_mdisc_set_07sep2026.jpg)
+
+(relevant_web_page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_8/)
+
+video_0_transcription:
+
+All right, today is the 7th of September 2026, and I'm making a video which I plan on transcribing with TurboScribe dot AI to turn into a plain-text file of what I'm saying, but I'm not going to keep the video content or the audio content because that takes up too much data and I'd rather try to compress as much data as I can but maximize the information which that data represents. So I'm trying to make it very information-dense and not very large in terms of data this time in this micro-directory, which is KARLINA_OBJECT_extension_pack_77. What I have in this bag is labeled KARBYTES_07SEP2026.
+
+SEP is short for September and that's because the name of the disc was supposed to be a maximum number of characters, so that's as small as I can get it instead of having the full month name in there for the Brasero disc burning program. And inside this package is an insulated bag which has a spindle of M_DISCs; each 25-gigabytes capacity. And there are four copies of each of the following: 
+
+- karbytes_origins (which is also known as karbytes2025_22) and
+
+- karbytes_nexus (which is also known as karbytes2026_2) and 
+
+- the latest (canon) KARBYTES which is an incomplete version of the third disc so far called karbytes_refinement (and this edition is the latest version karbytes2026_8 as of 11:59PM Pacific Standard Time on 07_SEPTEMBER_2026). 
+
+Technically today is (I think) 06_SEPTEMBER_2026 but I was saying 07 because I already made a copy which had some errors but I didn't want to confuse the erroneous copy with the more perfect copies which I made later today. So today is 06_SEPTEMBER_2026. Tomorrow is 07_SEPTEMBER_2026 and I don't plan on making any more content in the canon KARBYTES for at least two days. That way there's a nice clean break and we know which discs are which. 
+
+So the latest official (complete) KARBYTES disc set is labeled 07_SEPTEMBER_2026 because I'm expected to not be making any more (canon) KARBYTES content since the latest update which happened sometime today on 06_SEPTEMBER_2026 around 2:00PM pacific standard time. I believe it was actually 2:27PM Pacific Standard Time 06_SEPTEMBER_2026.
+
+Anyway, I should get back to organizing my closet. What I'm doing is opening some of the bags which have (out-of-date) complete KARBYTES versions in them and taking out some complete M_DISCs. So I'm taking out karbytes_origins and karbytes_nexus copies to take back to The Burrow and use to make complete KARBYTES bundles in the future. 
+
+Right now, the latest version of KARBYTES is going into the microwave oven in the corner of the closet which I call the Nord Vault at my legal address on the east side of Castro Valley, California. The Burrow is on the west side of Castro Valley, California. So generally whatever is currently in the microwave oven is the latest version of KARBYTES and it's complete; it has multiple copies of each of the discs of the complete KARBYTES collection or the latest stable version of that entire complete collection and back at home at where the (KARBYTES) .onion server is located there's a minimum number of discs to make the complete set there inside the closet. So there's a master copy in there but it's not what I'd call a redundant set because there's only one of each disc in there. 
