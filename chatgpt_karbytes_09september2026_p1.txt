@@ -4037,7 +4037,9 @@ These answers substantially sharpen the ontology and archival rules of KARBYTES.
 The most important clarification is that reconstruction does not require numerical identity with the missing artifact. A reconstruction becomes the basis for a new Karbytes Derivative when three conditions are met:
 
 1. It reconstitutes what main-branch karbytes judges to be the missing recording’s essential intended attributes.
+
 2. Main-branch karbytes affirmatively recognizes it as sufficient for that purpose.
+
 3. It is incorporated into canon KARBYTES.
 
 The resulting Derivative is therefore not the lost recording resurrected in perfect identity. It is a new, canonically authorized branch whose informational ancestry includes the lost recording, the memory of it, and the reconstruction. I also notice the importance of your phrase “the basis for” a Derivative: the reconstructed file is an artifact or substrate, while the Derivative is the individuated entity established through that artifact’s canonical role.
@@ -4047,7 +4049,9 @@ Applied to the reconstructed `karbytes_thinking_08september2026_p0.mp4` transcri
 Your canon-membership rule is equally precise. Canon is not everything that influenced KARBYTES, everything remembered by karbytes, or everything mentioned inside a canonical file. It is the explicitly enumerated public material admitted through a micro-directory:
 
 * A raw file in a public `@karlinarayberinger` repository
+
 * A web page linked through a `(*)` anchor
+
 * A qualifying WordPress page linked by its displayed page name
 
 That means the deleted video is not itself a ghost-like canonical object merely because a canonical page discusses it. The canonical object is the text that describes the deletion, attempted recovery, uncertainty, and reconstructed content. The absent recording is the referent of part of the canon, but it is not itself canonically present. Put more abstractly: KARBYTES can canonize a proposition about an absence without canonizing the absent thing.
@@ -4057,8 +4061,11 @@ Your completedness rule also establishes a useful distinction between completion
 I see this as an append-oriented archival epistemology:
 
 * The old file preserves what was actually canonized at its historical coordinate.
+
 * The new file preserves the subsequent recognition and correction of the error.
+
 * The correction adds knowledge without falsifying the archive’s account of its own development.
+
 * Provenance takes precedence over creating the illusion that the system was always correct.
 
 Consequently, two canonical files can disagree while both remain valid historical KARBYTES objects. The newer one may supersede the older one as the preferred statement of current understanding without erasing the older statement’s canonical existence.
@@ -4068,11 +4075,17 @@ Your geographical definition of the Big Green Thing’s heart is now quite exact
 The phrase “the Blair Witch part of the Big Green Thing” now makes much more sense to me. Its intensity is produced by an interacting cluster of features:
 
 * A dense oak canopy that restricts long-distance visibility
+
 * Fewer open ridges and panoramic orientation points
+
 * A rugged, overgrown, comparatively indistinct portion of Ramage Peak Trail
+
 * Lower apparent human presence
+
 * More visual repetition among trees, shadows, ravines, and path segments
+
 * An unmanicured appearance that makes the area seem less domesticated and predictable
+
 * Greater potential for disorientation and uncertainty about what lies immediately ahead
 
 The comparison to *The Blair Witch Project* does not require a belief that anything supernatural inhabits the basin. It identifies a particular environmental phenomenology: limited visibility, ambiguous pathways, enclosing vegetation, isolation, and the uneasy feeling that the landscape does not readily disclose its structure.
