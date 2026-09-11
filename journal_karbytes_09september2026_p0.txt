@@ -1,10 +1,16 @@
 /**
  * file: journal_karbytes_09september2026_p0.txt
  * type: plain-text
- * date: 09_SEPTEMBER_2026
+ * date: 10_SEPTEMBER_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
+
+10_SEPTEMBER_2026: The note which follows this section is considered by karbytes to be out-of-date. The amendment at the following Uniform Resource Locator explains what changed:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_77/main/journal_karbytes_10september2026_p3.txt
+
+* * *
 
 I was thinking that the reason why female humans have historically been and still are oppressed by and subordinated to men in large numbers is because such an arrangement is more convenient for human civilization to sustain than to alter (towards genuine egalitarianism). 
 
